@@ -1,0 +1,15 @@
+C:\Users\USER\PoligonosApp\Clase4Memoria\bin\Debug\net10.0\Clase4Memoria.exe
+C:\Users\USER\PoligonosApp\Clase4Memoria\bin\Debug\net10.0\Clase4Memoria.deps.json
+C:\Users\USER\PoligonosApp\Clase4Memoria\bin\Debug\net10.0\Clase4Memoria.runtimeconfig.json
+C:\Users\USER\PoligonosApp\Clase4Memoria\bin\Debug\net10.0\Clase4Memoria.dll
+C:\Users\USER\PoligonosApp\Clase4Memoria\bin\Debug\net10.0\Clase4Memoria.pdb
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.AssemblyInfoInputs.cache
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.AssemblyInfo.cs
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.csproj.CoreCompileInputs.cache
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.sourcelink.json
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.dll
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\refint\Clase4Memoria.dll
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.pdb
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\Clase4Memoria.genruntimeconfig.cache
+C:\Users\USER\PoligonosApp\Clase4Memoria\obj\Debug\net10.0\ref\Clase4Memoria.dll
