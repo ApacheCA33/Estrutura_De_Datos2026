@@ -1,0 +1,15 @@
+C:\Users\USER\PoligonosApp\EB2\bin\Debug\net10.0\EB2.exe
+C:\Users\USER\PoligonosApp\EB2\bin\Debug\net10.0\EB2.deps.json
+C:\Users\USER\PoligonosApp\EB2\bin\Debug\net10.0\EB2.runtimeconfig.json
+C:\Users\USER\PoligonosApp\EB2\bin\Debug\net10.0\EB2.dll
+C:\Users\USER\PoligonosApp\EB2\bin\Debug\net10.0\EB2.pdb
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.AssemblyInfoInputs.cache
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.AssemblyInfo.cs
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.csproj.CoreCompileInputs.cache
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.sourcelink.json
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.dll
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\refint\EB2.dll
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.pdb
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\EB2.genruntimeconfig.cache
+C:\Users\USER\PoligonosApp\EB2\obj\Debug\net10.0\ref\EB2.dll
