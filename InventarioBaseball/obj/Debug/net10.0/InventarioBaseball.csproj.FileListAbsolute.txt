@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\bin\Debug\net10.0\InventarioBaseball.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\bin\Debug\net10.0\InventarioBaseball.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\bin\Debug\net10.0\InventarioBaseball.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\bin\Debug\net10.0\InventarioBaseball.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\bin\Debug\net10.0\InventarioBaseball.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\refint\InventarioBaseball.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\InventarioBaseball.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InventarioBaseball\obj\Debug\net10.0\ref\InventarioBaseball.dll
