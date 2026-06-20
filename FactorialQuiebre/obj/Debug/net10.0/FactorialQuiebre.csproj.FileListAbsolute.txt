@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\bin\Debug\net10.0\FactorialQuiebre.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\bin\Debug\net10.0\FactorialQuiebre.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\bin\Debug\net10.0\FactorialQuiebre.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\bin\Debug\net10.0\FactorialQuiebre.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\bin\Debug\net10.0\FactorialQuiebre.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\refint\FactorialQuiebre.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\FactorialQuiebre.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialQuiebre\obj\Debug\net10.0\ref\FactorialQuiebre.dll
