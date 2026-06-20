@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\bin\Debug\net10.0\FactorialBigInteger.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\bin\Debug\net10.0\FactorialBigInteger.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\bin\Debug\net10.0\FactorialBigInteger.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\bin\Debug\net10.0\FactorialBigInteger.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\bin\Debug\net10.0\FactorialBigInteger.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\refint\FactorialBigInteger.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\FactorialBigInteger.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FactorialBigInteger\obj\Debug\net10.0\ref\FactorialBigInteger.dll
