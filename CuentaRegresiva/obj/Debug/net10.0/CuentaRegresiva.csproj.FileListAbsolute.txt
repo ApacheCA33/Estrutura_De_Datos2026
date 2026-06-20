@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\bin\Debug\net10.0\CuentaRegresiva.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\bin\Debug\net10.0\CuentaRegresiva.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\bin\Debug\net10.0\CuentaRegresiva.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\bin\Debug\net10.0\CuentaRegresiva.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\bin\Debug\net10.0\CuentaRegresiva.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\refint\CuentaRegresiva.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\CuentaRegresiva.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\CuentaRegresiva\obj\Debug\net10.0\ref\CuentaRegresiva.dll
