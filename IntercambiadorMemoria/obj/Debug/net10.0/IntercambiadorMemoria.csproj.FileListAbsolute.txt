@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\bin\Debug\net10.0\IntercambiadorMemoria.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\bin\Debug\net10.0\IntercambiadorMemoria.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\bin\Debug\net10.0\IntercambiadorMemoria.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\bin\Debug\net10.0\IntercambiadorMemoria.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\bin\Debug\net10.0\IntercambiadorMemoria.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\refint\IntercambiadorMemoria.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\IntercambiadorMemoria.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\IntercambiadorMemoria\obj\Debug\net10.0\ref\IntercambiadorMemoria.dll
