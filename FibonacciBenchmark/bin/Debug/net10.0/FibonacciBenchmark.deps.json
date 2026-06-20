@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "FibonacciBenchmark/1.0.0": {
+        "runtime": {
+          "FibonacciBenchmark.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FibonacciBenchmark/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

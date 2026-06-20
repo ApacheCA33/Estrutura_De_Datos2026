@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\bin\Debug\net10.0\FibonacciBenchmark.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\bin\Debug\net10.0\FibonacciBenchmark.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\bin\Debug\net10.0\FibonacciBenchmark.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\bin\Debug\net10.0\FibonacciBenchmark.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\bin\Debug\net10.0\FibonacciBenchmark.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\refint\FibonacciBenchmark.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\FibonacciBenchmark.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\FibonacciBenchmark\obj\Debug\net10.0\ref\FibonacciBenchmark.dll
