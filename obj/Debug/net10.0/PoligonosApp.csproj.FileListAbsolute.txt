@@ -12,3 +12,11 @@ C:\Users\USER\PoligonosApp\obj\Debug\net10.0\refint\PoligonosApp.dll
 C:\Users\USER\PoligonosApp\obj\Debug\net10.0\PoligonosApp.pdb
 C:\Users\USER\PoligonosApp\obj\Debug\net10.0\PoligonosApp.genruntimeconfig.cache
 C:\Users\USER\PoligonosApp\obj\Debug\net10.0\ref\PoligonosApp.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\refint\PoligonosApp.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\obj\Debug\net10.0\PoligonosApp.pdb

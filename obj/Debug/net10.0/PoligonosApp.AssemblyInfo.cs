@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PoligonosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a22fc787296c2cba45cbf3b8fdaa2385240d762b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PoligonosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PoligonosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
