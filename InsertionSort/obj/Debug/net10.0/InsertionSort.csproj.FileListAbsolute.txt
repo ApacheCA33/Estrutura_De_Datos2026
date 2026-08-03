@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\bin\Debug\net10.0\InsertionSort.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\bin\Debug\net10.0\InsertionSort.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\bin\Debug\net10.0\InsertionSort.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\bin\Debug\net10.0\InsertionSort.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\bin\Debug\net10.0\InsertionSort.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\refint\InsertionSort.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\InsertionSort.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\InsertionSort\obj\Debug\net10.0\ref\InsertionSort.dll
