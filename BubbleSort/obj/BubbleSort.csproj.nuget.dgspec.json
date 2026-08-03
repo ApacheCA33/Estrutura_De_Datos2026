@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj": {}
+    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\BubbleSort\\BubbleSort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj": {
+    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\BubbleSort\\BubbleSort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
-        "projectName": "PoligonosApp",
-        "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\BubbleSort\\BubbleSort.csproj",
+        "projectName": "BubbleSort",
+        "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\BubbleSort\\BubbleSort.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\BubbleSort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

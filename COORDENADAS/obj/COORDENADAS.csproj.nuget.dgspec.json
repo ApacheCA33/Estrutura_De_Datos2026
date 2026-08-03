@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj": {}
+    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\COORDENADAS\\COORDENADAS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj": {
+    "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\COORDENADAS\\COORDENADAS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
-        "projectName": "PoligonosApp",
-        "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\COORDENADAS\\COORDENADAS.csproj",
+        "projectName": "COORDENADAS",
+        "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\COORDENADAS\\COORDENADAS.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\COORDENADAS\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -61,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.CSharp": "(,4.7.32767]",
             "Microsoft.VisualBasic": "(,10.4.32767]",

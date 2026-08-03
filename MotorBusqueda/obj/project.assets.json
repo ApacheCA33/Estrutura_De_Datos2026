@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
-      "projectName": "PoligonosApp",
-      "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\PoligonosApp.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\MotorBusqueda\\MotorBusqueda.csproj",
+      "projectName": "MotorBusqueda",
+      "projectPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\MotorBusqueda\\MotorBusqueda.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Documents\\Estrutura_De_Datos2026\\MotorBusqueda\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
