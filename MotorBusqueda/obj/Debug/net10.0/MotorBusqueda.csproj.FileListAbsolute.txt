@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\bin\Debug\net10.0\MotorBusqueda.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\bin\Debug\net10.0\MotorBusqueda.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\bin\Debug\net10.0\MotorBusqueda.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\bin\Debug\net10.0\MotorBusqueda.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\bin\Debug\net10.0\MotorBusqueda.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\refint\MotorBusqueda.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\MotorBusqueda.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\MotorBusqueda\obj\Debug\net10.0\ref\MotorBusqueda.dll
