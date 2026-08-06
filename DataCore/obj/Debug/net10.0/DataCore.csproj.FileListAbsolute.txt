@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\bin\Debug\net10.0\DataCore.exe
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\bin\Debug\net10.0\DataCore.deps.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\bin\Debug\net10.0\DataCore.runtimeconfig.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\bin\Debug\net10.0\DataCore.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\bin\Debug\net10.0\DataCore.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.AssemblyInfo.cs
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.sourcelink.json
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\refint\DataCore.dll
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.pdb
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\DataCore.genruntimeconfig.cache
+C:\Users\USER\Documents\Estrutura_De_Datos2026\DataCore\obj\Debug\net10.0\ref\DataCore.dll
